@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="myname">Riaan Jacobs</string>
+    <string name="phone">Phone Number: +27829212337</string>
+    <string name="slackText">Slack Username:    @Riaan</string>
+    <string name="emailText">Email: riaanjacobs@gmail.com</string>
+    <string name="countryText">Country: South Africa</string>
+    <string name="trackText">Track:    Android</string>
+</resources>
